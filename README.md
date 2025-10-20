@@ -1,6 +1,5 @@
 # *DocFace*: Matching ID Document Photos to Selfies
 
-By Yichun Shi and Anil K. Jain
 
 <img src="https://raw.githubusercontent.com/seasonSH/DocFace/master/figs/docface.png" width="600px">
 
@@ -195,7 +194,8 @@ Notice that the images in the image list follow the same naming convention of th
     <img src="https://raw.githubusercontent.com/seasonSH/DocFace/master/figs/table7.png" width="500px">
 
 
-## Contact
 
-  Yichun Shi: shiyichu **at** msu **dot** edu
+
+
+
 
